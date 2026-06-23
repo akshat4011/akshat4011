@@ -14,7 +14,7 @@ I believe in writing clean, maintainable code while continuously learning modern
 ## 🌐 Coding Profiles
 
 - 🟠 LeetCode: https://leetcode.com/u/rsVxio2Hsf/
-- 🟢 GeeksforGeeks: https://www.geeksforgeeks.org/user/akshat1104/
+
 
 
 # 📊 GitHub Stats:
